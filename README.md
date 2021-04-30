@@ -1,5 +1,6 @@
 ---
-topic: ASP.NET and SQL Database sample for Azure App Service
+topic: ASP.NET and SQL Database sample for Azure App Servic
+
 languages:
   - aspx-csharp
 products:
